@@ -20,14 +20,11 @@ Check out the configuration reference at [Hugging Face Spaces Config Reference](
 
 Feel free to explore and test the app with your images!
 
----
-title: Gradio Cs5330 Sky Pixel Identification
-emoji: 😻
-colorFrom: red
-colorTo: gray
-sdk: gradio
-sdk_version: 4.16.0
-app_file: app.py
-pinned: false
----
-
+- **Title:** Gradio CS5330 Sky Pixel Identification
+- **Emoji:** 😻
+- **Color From:** red
+- **Color To:** gray
+- **SDK:** gradio
+- **SDK Version:** 4.16.0
+- **App File:** app.py
+- **Pinned:** false
