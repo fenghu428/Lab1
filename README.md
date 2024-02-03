@@ -1,10 +1,10 @@
-# Gradio Cs5330 Sky Pixel Identification
+# Gradio CS5330 Sky Pixel Identification
 
 This Gradio app is designed to identify sky pixels in uploaded images, leveraging advanced computer vision techniques to distinguish between sky and non-sky regions effectively.
 
 ## Try it out!
 
-You can access and try the app here: [Gradio Cs5330 Sky Pixel Identification](https://huggingface.co/spaces/Fiona123456/gradio-cs5330-sky-pixel-identification)
+You can access and try the app here: [Gradio CS5330 Sky Pixel Identification](https://huggingface.co/spaces/Fiona123456/gradio-cs5330-sky-pixel-identification)
 
 ## How to Use
 
