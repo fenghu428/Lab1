@@ -2,6 +2,10 @@
 
 This Gradio app is designed to identify sky pixels in uploaded images, leveraging advanced computer vision techniques to distinguish between sky and non-sky regions effectively.
 
+## Link to original code on Google Colab
+
+https://colab.research.google.com/drive/1h19tvD97D2mWFykxQL4592yzGQsoyJup?authuser=1#scrollTo=nyeNbyMbqxbV
+
 ## Try it out!
 
 You can access and try the app here: [Gradio CS5330 Sky Pixel Identification](https://huggingface.co/spaces/Fiona123456/gradio-cs5330-sky-pixel-identification)
